@@ -9,3 +9,5 @@ function whisper(string) {
 function sayHiToGrandma() {
   console.log('Hi Grandma')
 }
+
+sayHiToGrandma()
